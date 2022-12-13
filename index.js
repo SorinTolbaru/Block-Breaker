@@ -165,7 +165,7 @@ document.addEventListener("keyup",()=>{
 
 
 //for collision test
-document.querySelector("div").addEventListener("mousemove",(event)=>{
-    ball1.position.x = event.clientX - 295
-    ball1.position.y = event.clientY - 210
-    })
+// document.querySelector("div").addEventListener("mousemove",(event)=>{
+//     ball1.position.x = event.clientX - 295
+//     ball1.position.y = event.clientY - 210
+//     })
